@@ -1,3 +1,39 @@
+.header {
+    padding-top: 26px;
+}
+.header-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.header-logo {
+    display: flex;
+    align-items: center;
+}
+
+.header-logo p {
+    margin-left: 12px;
+    font-size: 22px;
+    line-height: 33px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.header-nav {
+    width: 431px;
+}
+.header-nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+.header-login {
+    display: flex;
+    align-items: center;
+}
+
+.header-login-link {
+    margin-right: 41px;
+}
+
 .bg-img {
 	z-index: -1;
 	position: absolute;
