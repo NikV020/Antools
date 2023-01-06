@@ -6,6 +6,7 @@
     align-items: center;
     justify-content: space-between;
 }
+
 .header-logo {
     display: flex;
     align-items: center;
@@ -21,10 +22,17 @@
 .header-nav {
     width: 431px;
 }
+
+
 .header-nav ul {
     display: flex;
     justify-content: space-between;
 }
+
+.header-nav a:hover {
+   color: #fff; 
+}
+
 .header-login {
     display: flex;
     align-items: center;
@@ -48,3 +56,4 @@
 	width: 100%;
 	object-fit: cover;
 }
+
