@@ -7,11 +7,11 @@ body {
 	background: #1E252B;
 }
 
-@media (max-width: 991px) {
+/* @media (max-width: 991px) {
 	body {
 		font-size: 18px;
 	}
-}
+} */
 
 /* Utility */
 
