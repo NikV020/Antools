@@ -25,9 +25,3 @@ a.btn:hover {
 	opacity: 0.8;
 	color: #fff;
 }
-
-.btn-big,
-a.btn-big {
-	width: 130px;
-    color: #FFFFFF;
-}

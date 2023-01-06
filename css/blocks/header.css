@@ -1,6 +1,7 @@
 .header {
     padding-top: 26px;
 }
+/* First block */
 .header-row {
     display: flex;
     align-items: center;
@@ -42,6 +43,12 @@
     margin-right: 41px;
 }
 
+.header-login-link:hover {
+    color: #fff; 
+}
+
+/* Cover */
+
 .bg-img {
 	z-index: -1;
 	position: absolute;
@@ -57,3 +64,75 @@
 	object-fit: cover;
 }
 
+/* Two block */
+
+.header-text {
+    margin-top: 104px;
+}
+
+.header-title {
+    width: 600px;
+    height: 140px;
+    font-size: 50px;
+    line-height: 140%;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.dot {
+    color: #FF6E30;
+}
+
+.header-subtitle {
+    margin-top: 30px;
+    width: 487px;
+    height: 60px;
+
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+
+.search {
+    margin-top: 60px; 
+}
+
+.search-input {
+    background: #283036;
+    border-radius: 15px;
+    padding-left: 40px;
+    height: 64px;  
+    width: 497px;
+    font-size: 14px; 
+}
+
+.btn-big {
+    position: absolute;
+    margin-left: -142px;
+    margin-top: 8px;
+    padding: 12px 36px;
+	background-color: #FF6E30;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FDF5FF;
+	border-radius: 8px;
+	transition: opacity 0.2s ease;
+}
+
+.btn-big:hover {
+	opacity: 0.8;
+	color: #fff;
+}
+
+
+.header-icon {
+    margin-top: 110px;
+    width: 190px;
+    height: 58px;
+}
+.icon-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
