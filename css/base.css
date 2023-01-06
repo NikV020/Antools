@@ -1,9 +1,9 @@
 body {
-	font-family: 'Lato', sans-serif;
-	font-weight: 400;
-	font-size: 20px;
-	line-height: 1.5;
-	color: #424242;
+	font-family: 'Poppins', sans-serif;
+	font-weight: 500;
+    font-style: normal;
+	font-size: 18px;
+	color: rgba(255, 255, 255, 0.55);
 	background: #1E252B;
 }
 
