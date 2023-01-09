@@ -10,15 +10,28 @@
     justify-content: space-between;
     align-items: center;
 
-    padding: 55px 83px 82px;
-
     background: rgba(44, 53, 61, 0.2);
     backdrop-filter: blur(25px);
     border-radius: 25px;
 }
 
 .brand-title {
+    padding-top: 55px;
     font-size: 24px;
     line-height: 36px;
     color: rgba(255, 255, 255, 0.8);
 }
+
+.brand-subtitle {
+    /* display: grid;
+    grid-template-columns: repeat(4, 194px);
+    column-gap: 107px; */
+    
+    width: 1059px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 55px;
+    padding-bottom: 56px;
+}
+
