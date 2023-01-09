@@ -1,6 +1,5 @@
 .brand {
     margin-top: 200px;
-
 }
 
 
@@ -26,7 +25,7 @@
     /* display: grid;
     grid-template-columns: repeat(4, 194px);
     column-gap: 107px; */
-    
+
     width: 1059px;
     display: flex;
     align-items: center;

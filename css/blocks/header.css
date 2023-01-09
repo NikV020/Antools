@@ -79,7 +79,13 @@
 }
 
 .dot {
-    color: #FF6E30;
+    position: absolute;
+    margin-top: -24px;
+    margin-left: 540px;
+    width: 7px;
+    height: 7px;
+    background-color: #FF6E30;
+    border-radius: 50%;
 }
 
 .header-subtitle {
@@ -93,9 +99,14 @@
     color: rgba(255, 255, 255, 0.55);
 }
 
-
 .search {
-    margin-top: 60px; 
+    margin-top: 60px;   
+}
+
+.searching {
+    position: absolute;
+    margin-top: 20px;
+    margin-left: 13px; 
 }
 
 .search-input {
