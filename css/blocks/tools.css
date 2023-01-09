@@ -90,6 +90,10 @@
 }
 
 
+.folder-active {
+    padding-bottom: 7px;
+}
+
 
 .visit {
     position: absolute;
@@ -99,5 +103,21 @@
 
 .visit-active {
     margin-left: 220px;
-    margin-top: -42px;
+    margin-top: -56px;
+}
+
+.tools-footer {
+    margin-top: 100px;
+    margin-left: 520px;
+    box-sizing: border-box;
+    width: 184px;
+    height: 64px;
+    background: #1E252B;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 8px;
+    padding-top: 17px;
+    padding-left: 38px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FF6E30;
 }
