@@ -1,0 +1,30 @@
+.tools {
+    margin-top: 200px;
+}
+
+
+.tools-title {
+    margin-bottom: 25px;
+    font-size: 48px;
+    line-height: 130%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.tools-subtitle {
+    margin-left: 399px;
+    margin-bottom: 90px;
+    width: 427px;
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+/* Card */
+
+.tools-wrapper-card {
+}
+.card {
+    
+}
