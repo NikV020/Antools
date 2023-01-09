@@ -21,7 +21,7 @@ a.btn {
 }
 
 .btn:hover,
-a.btn:hover {
+a.btn:hover, .btn-newcomer:hover {
 	opacity: 0.8;
 	color: #fff;
 }

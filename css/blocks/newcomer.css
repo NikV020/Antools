@@ -1,10 +1,36 @@
+.newcomer {
+    margin-top: 200px;
+}
+
+.newcomer-wrapper {
+    display: grid;
+    grid-template-columns: repeat(2, 427px);
+    column-gap: 197px;
+}
+
 .newcomer-tools {
+    width: 427px;
 }
+
 .newcomer-title {
+    font-size: 48px;
+    line-height: 130%;
+    color: rgba(255, 255, 255, 0.9);
 }
+
 .newcomer-subtitle {
+    margin-top: 30px;
+    margin-bottom: 60px;
+    font-size: 18px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.55);
 }
-.btn {
-}
+
 .btn-newcomer {
+    padding: 16px 40px 15px;
+    background: #FF6E30;
+    border-radius: 8px;
+    font-size: 18px;
+    line-height: 27px;
+    color: #FFFFFF;
 }
