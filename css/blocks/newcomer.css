@@ -34,3 +34,34 @@
     line-height: 27px;
     color: #FFFFFF;
 }
+
+.newcomer-card-wrapper {
+    width: 600px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.newcomer-card {
+    padding: 28px;
+    width: 288px;
+    height: 284px;
+    margin-bottom: 78px;
+}
+
+.newcomer-lorem {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.newcomer-card-footer {
+    margin-top: 30px;
+}
+
+.newcomer-visit {
+    position: absolute;
+    margin-left: 139px;
+    margin-top: -42px;
+}
