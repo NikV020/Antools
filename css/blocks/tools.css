@@ -13,7 +13,6 @@
 
 .tools-subtitle {
     margin-left: 399px;
-    margin-bottom: 90px;
     width: 427px;
     font-size: 18px;
     line-height: 30px;
@@ -27,6 +26,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
+    margin-top: 110px;
 }
 
 .card {
@@ -34,6 +34,13 @@
     width: 392px;
     height: 294px;
     margin-bottom: 100px;
+}
+
+.active {
+    margin-top: -20px;
+    background: rgba(40, 48, 54, 0.6);
+    backdrop-filter: blur(25px);
+    border-radius: 15px;
 }
 
 .card:last-child, .card:nth-last-child(2), .card:nth-last-child(3)  {
@@ -72,8 +79,25 @@
 
 .card-footer {
     margin-top: 30px;
+    width: 326px;
 }
 
+.card-footer-icon {
+    width: 96px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+
 .visit {
-    margin-left: 124px;
+    position: absolute;
+    margin-left: 220px;
+    margin-top: -42px;
+}
+
+.visit-active {
+    margin-left: 220px;
+    margin-top: -42px;
 }
