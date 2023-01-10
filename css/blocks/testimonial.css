@@ -26,7 +26,14 @@
     letter-spacing: 0.015em;
     color: rgba(255, 255, 255, 0.78);
 }
+
 .testimonial-text-cover {
+    position: absolute;
+    margin-top: -50px;
+    margin-left: -50px;
+    width: 103px;
+    height: 320px;
 }
+
 .testimonial-footer {
 }
