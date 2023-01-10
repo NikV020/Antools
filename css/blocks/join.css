@@ -1,0 +1,32 @@
+.join {
+    margin-top: 250px;
+}
+
+.join-wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.join-header {
+    font-size: 48px;
+    line-height: 130%;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.9);
+}
+.join-text {
+    margin-top: 25px;
+    margin-bottom: 100px;
+    width: 427px;
+    height: 60px;
+
+    font-size: 18px;
+    line-height: 30px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.join-input {
+    
+}
