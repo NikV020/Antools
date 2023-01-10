@@ -43,10 +43,14 @@
 }
 
 .newcomer-card {
-    padding: 28px;
+    padding: 28px 21px 22px;
     width: 288px;
     height: 284px;
     margin-bottom: 78px;
+}
+
+.newcomer-card:last-child, .newcomer-card:nth-last-child(2)  {
+    margin-bottom: 0;
 }
 
 .newcomer-lorem {
