@@ -12,6 +12,12 @@
     justify-content: space-between;
 }
 
+.arrow {
+    z-index: -1;
+	position: absolute;
+    margin-left: -187px;
+}
+
 
 .testimonial-text {
     margin-left: 57px;
