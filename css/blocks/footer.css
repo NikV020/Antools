@@ -5,3 +5,82 @@
 
     border: 0.5px solid rgba(255, 255, 255, 0.15);
 }
+
+.contact-wrapper {
+    display: flex;
+    width: 1224px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.antools-card {
+    margin-top: 70px;
+    width: 260px;
+    height: 183px;
+}
+
+
+.antools-card-title {
+    margin-top: 25px;
+    margin-bottom: 21px;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+
+.antools-card-subtitle {
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 25px;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.wrapper-card {
+    margin-top: 70px;
+    margin-left: 156px;
+    width: 683px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.card-contact {
+    width: 197px;
+}
+
+.card-categories {
+    width: 112px;
+}
+
+.card-company {
+    width: 144px;
+}
+
+.header-card {
+    
+    font-size: 20px;
+    line-height: 30px;
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.title-card {
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.subtitle-card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.55);
+}
+
+.text-card {
+    font-size: 16px;
+    line-height: 24px;
+    color: rgba(255, 255, 255, 0.55);
+}
