@@ -8,12 +8,12 @@
     justify-content: space-between;
 }
 
-.header-logo {
+.antools {
     display: flex;
     align-items: center;
 }
 
-.header-logo-text {
+.antools-text {
     margin-left: 12px;
     font-size: 22px;
     line-height: 33px;
